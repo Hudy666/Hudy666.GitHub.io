@@ -11,7 +11,7 @@ With an academic interest, I hope to obtain a doctor's degree. my future researc
 If you are interested, please contact me at: [hudy@stu.scu.edu.cn].
 
 ## Current Academic Achievements
-Li Zhang and Dayi Hu, “On ‘Taking Sides’ in International Contests”, *Journal of Contemporary Asia-Pacific Studies*, No. 5, 2021, pp. 75-104. [The article links]((https://hudy666.github.io/files/On ‘Taking Sides’ in International Contests.pdf)
+Li Zhang and Dayi Hu, “On ‘Taking Sides’ in International Contests”, *Journal of Contemporary Asia-Pacific Studies*, No. 5, 2021, pp. 75-104. [The article links](https://hudy666.github.io/files/On ‘Taking Sides’ in International Contests.pdf)
 
 Li Zhang and Dayi Hu, “National Digital Development Strategy and its Practice in India”, This paper has been accepted by the Institute for International and Area Studies, Tsinghua University and is currently in the process of publication proofreading. [The article links](https://hudy666.github.io/files/National Digital Development Strategy and its Practice in India.pdf)
 
@@ -34,7 +34,7 @@ More info about me can be found in [CV-chinese](https://Hudy666.GitHub.io/files/
 
 
 
-### Support or Contact
+## Support or Contact
 * phone Number: (86)18781907653.
 * Wechat: Hudy2022666.
 * Email: [hudy@stu.scu.edu.cn] & [873274787@qq.com].
