@@ -1,7 +1,7 @@
 # <font size=5>Welcome to Dayi Hu's Homepage</font>
 <font size=3>This is Dayi Hu's personal homepage</font>
 
-<img src="./pictures/hudy.jpg" width = "210" height = "250" alt="Dayi Hu" align=center />
+<img src="./pictures/hudy.jpg" width = "110" height = "150" alt="Dayi Hu" align=center />
 
 ## A short introduction
 I am now a master student of the School of International Studies, [Sichuan University](https://www.scu.edu.cn/index.htm), and Will graduate in 2023. I majored in Financial Management in School of Economic Relations, [Inner Mongolia University](https://www.imu.edu.cn/) for my undergraduate studies. In 2018, I went to School of Economics and Guanghua School of Management, [Peking University](https://www.pku.edu.cn/) for exchange study for half a year. I have learned four ACCA courses by myself.
