@@ -1,5 +1,7 @@
-## Welcome to Dayi Hu's Homepage
+# Welcome to Dayi Hu's Homepage
 This is Dayi Hu's personal homepage.
+
+<img src="hudy.jpg" alt="Avatar" class="avatar">
 
 ## A short introduction
 I am a now a master student of the School of International Studies, [Sichuan University](https://www.scu.edu.cn/index.htm), and Will graduate in 2023. I majored in Financial Management in School of Economic Relations, [Inner Mongolia University](https://www.imu.edu.cn/) for my undergraduate studies. In 2018, I went to School of Economics and Guanghua School of Management, [Peking University](https://www.pku.edu.cn/) for exchange study for half a year. I have learned four ACCA courses by myself.
