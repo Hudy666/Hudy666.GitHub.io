@@ -11,11 +11,12 @@ With an academic interest, I hope to obtain a doctor's degree. my future researc
 If you are interested, please contact me at: [hudy@stu.scu.edu.cn].
 
 ## Current Academic Achievements
-Li Zhang and Dayi Hu, “On ‘Taking Sides’ in International Contests”, *Journal of Contemporary Asia-Pacific Studies*, No. 5, 2021, pp. 75-104. [The article links](https://hudy666.github.io/files/On ‘Taking Sides’ in International Contests.pdf)
+Li Zhang and Dayi Hu, “On ‘Taking Sides’ in International Contests”, Journal of Contemporary Asia-Pacific Studies, No. 5, 2021, pp. 75-104. 
+[The paper link](https://hudy666.github.io/files/On ‘Taking Sides’ in International Contests.pdf)
 
-Li Zhang and Dayi Hu, “National Digital Development Strategy and its Practice in India”, This paper has been accepted by the Institute for International and Area Studies, Tsinghua University and is currently in the process of publication proofreading. [The article links](https://hudy666.github.io/files/National Digital Development Strategy and its Practice in India.pdf)
+Li Zhang and Dayi Hu, “National Digital Development Strategy and its Practice in India”, This paper has been accepted by the Institute for International and Area Studies, Tsinghua University and is currently in the process of publication proofreading. [The paper link](https://hudy666.github.io/files/National Digital Development Strategy and its Practice in India.pdf)
 
-Li Zhang and Dayi Hu, “The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development”， This paper is an academic project of Chinese Academy of Social Sciences, CASS, awaiting editorial review. [The article links](https://hudy666.github.io/files/The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development.pdf)
+Li Zhang and Dayi Hu, “The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development”， This paper is an academic project of Chinese Academy of Social Sciences, CASS, awaiting editorial review. [The paper link](https://hudy666.github.io/files/The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development.pdf)
 
 
 ## PROFILE
