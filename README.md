@@ -10,14 +10,6 @@ With an academic interest, I hope to obtain a doctor's degree. my future researc
 
 If you are interested, please contact me at: [hudy@stu.scu.edu.cn].
 
-
-
-PROFILE:
-* Have strong academic research ability and strong scientific research interest. 
-* Strong interpersonal skills with a good sense of teamwork.
-* Master the basic operation of Stata, R and Python in self-study.
-* I am intensifying my study of mathematical knowledge.
-
 ## Current Academic Achievements
 Li Zhang and Dayi Hu, “On ‘Taking Sides’ in International Contests”, *Journal of Contemporary Asia-Pacific Studies*, No. 5, 2021, pp. 75-104. [The article links]((https://hudy666.github.io/files/On ‘Taking Sides’ in International Contests.pdf)
 
@@ -26,7 +18,7 @@ Li Zhang and Dayi Hu, “National Digital Development Strategy and its Practice 
 Li Zhang and Dayi Hu, “The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development”， This paper is an academic project of Chinese Academy of Social Sciences, CASS, awaiting editorial review. [The article links](https://hudy666.github.io/files/The Belt and Road Initiative and the Building of a Community with a shared future for South Asian Countries from the perspective of Synergetic Development.pdf)
 
 
-### PROFILE
+## PROFILE
 
 About my characteristics and abilities
 
@@ -37,7 +29,7 @@ About my characteristics and abilities
 * I am intensifying my study of mathematical knowledge.
 ```
 
-## For more information
+## For more information（CV）
 More info about me can be found in [CV-chinese](https://Hudy666.GitHub.io/files/Dayi Hu-Chi. CV.pdf) and [CV-chinese](https://Hudy666.GitHub.io/files/Dayi Hu-Eng. CV.pdf).
 
 
