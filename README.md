@@ -31,7 +31,7 @@ About my characteristics and abilities
 ```
 
 ## For more information（CV）
-More info about me can be found in [CV-chinese](https://Hudy666.GitHub.io/files/Dayi Hu-Chi. CV.pdf) and [CV-chinese](https://Hudy666.GitHub.io/files/Dayi Hu-Eng. CV.pdf).
+More info about me can be found in [CV-Chinese](https://Hudy666.GitHub.io/files/Dayi Hu-Chi. CV.pdf) and [CV- English](https://Hudy666.GitHub.io/files/Dayi Hu-Eng. CV.pdf).
 
 
 
