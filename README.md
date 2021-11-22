@@ -1,5 +1,5 @@
-# Welcome to Dayi Hu's Homepage
-This is Dayi Hu's personal homepage.
+# <font size=5>Welcome to Dayi Hu's Homepage</font>
+<font size=3>This is Dayi Hu's personal homepage</font>
 
 <img src="./pictures/hudy.jpg" width = "310" height = "350" alt="Dayi Hu" align=center />
 
